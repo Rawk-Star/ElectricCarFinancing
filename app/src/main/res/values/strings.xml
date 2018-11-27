@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Electric Car Financing</string>
+    <string name="txtTitle">Electric Car Financing</string>
+    <string name="hintYears">Number of Years</string>
+    <string name="hintLoan">Car Loan Amount</string>
+    <string name="hintInterest">Interest Rate</string>
+    <string name="btnPayment">Car Payment</string>
+    <string name="imgDescription">Number of Years Image</string>
+    <string name="txtPayment">Monthly Payment</string>
+    <string name="txtInputError">Missing input value</string>
+    <string name="txtYearsError">Enter 3, 4, or 5 years</string>
+</resources>
